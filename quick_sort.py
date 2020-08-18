@@ -6,5 +6,4 @@ while True:
     for i in range(len(num_id)):
         if num_id[i] == num_id[link_a]:
             num_id[i] = num_id[link_b]
-    # test 2
     print(num_id)
